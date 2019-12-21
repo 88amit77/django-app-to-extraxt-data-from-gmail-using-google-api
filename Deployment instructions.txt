@@ -1,0 +1,13 @@
+ Deployment instructions
+1-unzip this file and run this project in django framework
+
+2-Then you need to fill some details through our django admin
+  http://127.0.0.1:8000/admin/
+  a->social Account ->social application->fill all the details
+    client id and secret key you will get from this link =https://console.developers.google.com/apis/credentials
+    ...then save it
+  b-sites->domain name=localhost:8000/
+         display name=localhost ..then save it
+4-http://127.0.0.1:8000
+     clicking  on google login you will get name of email user with one log-out button
+    
